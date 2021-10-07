@@ -1,4 +1,4 @@
-# pandas-challenge
+# Heroes-Of-Pymoli
 
 For this assignment, I decided to analyze the video game data from the fantasy game Heroes of Pymoli. After analyzing all of the data in my notebook, I have noticed the following 3 trends in this dataset.
 
